@@ -18,11 +18,11 @@ Always learning new technologies and improving my Data Structures & Algorithms s
 - 🌱 Currently learning Advanced Python, Java, DSA & Backend Development
 - 📊 Interested in Data Analytics & Business Intelligence
 - ⚡ Love solving coding problems and building real-world projects
-- 🎯 Looking for Software Development Internship Opportunities
+- 🔭 Looking for Software Development Internship Opportunities
 
 ---
 
-## 🛠 Tech Stack
+## 🧑‍💻 Tech Stack
 
 ### 💻 Programming Languages
 
@@ -31,14 +31,16 @@ Always learning new technologies and improving my Data Structures & Algorithms s
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🗄 Database
+### 🗄️ Database
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙ Backend
+### ⚙️ Backend
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 📊 Data Analytics
 
@@ -57,19 +59,16 @@ Always learning new technologies and improving my Data Structures & Algorithms s
 - Python
 - Java
 - Data Structures & Algorithms
-- Flask API Development
-- SQL
+- Flask / FastAPI Development
+- SQL / PostgreSQL
 - Power BI
 
 ---
 
 ## 💼 Projects
 
-- 🎓 Student Management System
-- 🐍 Python Projects
-- ☕ Java Console Applications
-- 🌐 Flask REST API
-- 📊 Power BI Dashboard
+- 🎓 [Student Management System](https://github.com/udaynarayansingh725/student-management-system)
+  Python-based application to manage student records — add, edit, delete, and search functionality, built using database concepts for efficient and reliable record management.
 
 ---
 
@@ -77,13 +76,13 @@ Always learning new technologies and improving my Data Structures & Algorithms s
 
 - Python Projects
 - Java Projects
-- Flask Projects
+- Flask / FastAPI Projects
 - Open Source
 - Data Analytics
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=udaynarayansingh725&show_icons=true&theme=tokyonight)
 
@@ -99,7 +98,7 @@ Always learning new technologies and improving my Data Structures & Algorithms s
 
 ---
 
-## 📊 Contribution Graph
+## 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=udaynarayansingh725&theme=tokyo-night)
 
@@ -107,13 +106,13 @@ Always learning new technologies and improving my Data Structures & Algorithms s
 
 ## 📫 Connect with Me
 
-💼 LinkedIn  
+💼 LinkedIn
 https://www.linkedin.com/in/uday-narayan-singh-48ab44377/
 
-📧 Email  
+📧 Email
 udaynarayansingh725@gmail.com
 
-💻 GitHub  
+🖥️ GitHub
 https://github.com/udaynarayansingh725
 
 ---
