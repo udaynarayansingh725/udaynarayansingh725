@@ -9,6 +9,7 @@ Always sharpening my Data Structures & Algorithms and backend engineering skills
 </p>
 
 <p align="center">
+  <a href="https://udaynarayansingh725.github.io/My-portfilo/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Web&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/uday-narayan-singh-48ab44377/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:udaynarayansingh725@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/udaynarayansingh725"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -69,6 +70,9 @@ Always sharpening my Data Structures & Algorithms and backend engineering skills
 
 ## 💼 Projects
 
+### 🛡️ [AetherGuard AI](https://github.com/udaynarayansingh725/AetherGuard-AI)
+Enterprise SOC Cyber Threat Detection Platform with Machine Learning & Isolation Forest Telemetry.
+
 ### 🎓 [Student Management System](https://github.com/udaynarayansingh725/student_management_system)
 Python-based application to manage student records with add, edit, delete, and search functionality — built using core database concepts for efficient, reliable record management.
 
@@ -81,6 +85,8 @@ A guidance system that uses data-driven logic to help students identify career p
 ---
 
 ## 📜 Certifications
+- 🏆 **IBM Bob 2.0 Hackathon** – lablab.ai (Sep 2026)
+- 🏆 **Build With Bharat 2.0** – CodeVerse (Sep 2026)
 - 📊 **Data Analysis with Python** — IBM / Cognitive Class (Dec 2025)
 - 📈 **Data Analytics Career for Non-Tech Backgrounds** — WsCube Tech (Mar 2026)
 - 🤖 **Basics of Machine Learning Algorithms** — UniAthena / CIQ UK (Jul 2026)
