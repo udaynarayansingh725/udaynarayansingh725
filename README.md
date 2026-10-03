@@ -66,15 +66,6 @@ Always sharpening my Data Structures & Algorithms and backend engineering skills
 - SQL / PostgreSQL
 - Power BI & Data Analytics
 
----
-
-## 💼 Projects
-
-
-
-
-
-
 
 ---
 
