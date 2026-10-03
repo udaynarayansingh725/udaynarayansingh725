@@ -76,8 +76,6 @@ Enterprise SOC Cyber Threat Detection Platform with Machine Learning & Isolation
 ### 🎓 [Student Management System](https://github.com/udaynarayansingh725/student_management_system)
 Python-based application to manage student records with add, edit, delete, and search functionality — built using core database concepts for efficient, reliable record management.
 
-### 💰 [Personal Expenses Tracker](https://github.com/udaynarayansingh725/Presonal-expenses-tracker)
-A tracker to log and manage personal expenses, helping visualize spending patterns and stay on top of a budget.
 
 
 
