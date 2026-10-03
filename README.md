@@ -73,8 +73,7 @@ Always sharpening my Data Structures & Algorithms and backend engineering skills
 ### 🛡️ [AetherGuard AI](https://github.com/udaynarayansingh725/AetherGuard-AI)
 Enterprise SOC Cyber Threat Detection Platform with Machine Learning & Isolation Forest Telemetry.
 
-### 🎓 [Student Management System](https://github.com/udaynarayansingh725/student_management_system)
-Python-based application to manage student records with add, edit, delete, and search functionality — built using core database concepts for efficient, reliable record management.
+
 
 
 
