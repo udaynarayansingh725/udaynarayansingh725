@@ -79,8 +79,7 @@ Python-based application to manage student records with add, edit, delete, and s
 ### 💰 [Personal Expenses Tracker](https://github.com/udaynarayansingh725/Presonal-expenses-tracker)
 A tracker to log and manage personal expenses, helping visualize spending patterns and stay on top of a budget.
 
-### 🎯 [AI-Based Student Career Guidance System](https://github.com/udaynarayansingh725/AI-Based-Student-Career-Guidance-System)
-A guidance system that uses data-driven logic to help students identify career paths suited to their interests and strengths.
+
 
 ---
 
