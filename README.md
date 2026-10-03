@@ -70,8 +70,6 @@ Always sharpening my Data Structures & Algorithms and backend engineering skills
 
 ## 💼 Projects
 
-### 🛡️ [AetherGuard AI](https://github.com/udaynarayansingh725/AetherGuard-AI)
-Enterprise SOC Cyber Threat Detection Platform with Machine Learning & Isolation Forest Telemetry.
 
 
 
